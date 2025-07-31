@@ -1,5 +1,5 @@
-# Calculator1
-https://github.com/твій_логін/Калькулятор1.git
+# CalculatorMD
+Калькулятор Матриці долі
 <!DOCTYPE html>
 <html lang="uk">
 <head>
