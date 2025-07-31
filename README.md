@@ -95,8 +95,8 @@ https://github.com/твій_логін/Калькулятор1.git
           <button>Записатися</button>
         </a>
         <div>
-          <img class="matrix-img" src="https://s10.aconvert.com/convert/p3r68-cdx67/aetrn-46wjz.png" alt="Матриця Долі">
-          <img class="matrix-img" src="https://s10.aconvert.com/convert/p3r68-cdx67/aww1s-8vaum.png" alt="Приклад розшифровки">
+       <img class="matrix-img" src="matrix.png" alt="Матриця Долі">
+       <img class="matrix-img" src="example.png" alt="Приклад розшифровки">
         </div>
         <p>Слідкуй за оновленнями у 
           <a style="color:#e0b64c;" href="https://t.me/+RHPNwc7DmwliNWIy" target="_blank">Telegram</a> або 
