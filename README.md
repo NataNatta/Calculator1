@@ -1,6 +1,5 @@
-# CalculatorMD
+#
 Калькулятор Матриці долі
-<!DOCTYPE html>
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
