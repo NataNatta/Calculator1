@@ -107,6 +107,3 @@ https://github.com/твій_логін/Калькулятор1.git
   </script>
 </body>
 </html>
-git add .
-git commit -m "додано калькулятор"
-git push
